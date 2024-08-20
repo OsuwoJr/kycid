@@ -90,7 +90,7 @@ kycid/
             <h3 class="text-2xl font-semibold mt-4">Running the Project Locally</h3>
             <p>To start the development server:</p>
             <pre class="bg-gray-800 p-4 rounded"><code>npm run dev</code></pre>
-            <p>Visit <a href="http://localhost:3000" class="text-emerald-400 hover:underline">http://localhost:3000</a> to view the platform.</p>
+            <p>Visit <a href="http://localhost:5173" class="text-emerald-400 hover:underline">http://localhost:5173</a> to view the platform.</p>
         </section>
 
         <section id="core-components" class="mb-12">
@@ -198,7 +198,7 @@ kycid/
 
         <section id="license" class="mb-12">
             <h2 class="text-3xl font-bold text-emerald-500 section-title">License</h2>
-            <p>KYCID is licensed under the MIT License. See the <a href="/LICENSE" class="text-emerald-400 hover:underline">LICENSE</a> file for more information.</p>
+            <p>KYCID is licensed under the MIT License. See the <a href="/license" class="text-emerald-400 hover:underline">LICENSE</a> file for more information.</p>
         </section>
     </main>
 
