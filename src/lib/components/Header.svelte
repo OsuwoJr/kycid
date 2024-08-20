@@ -13,7 +13,10 @@
   <header class="flex items-center justify-between p-4 bg-gray-900 text-white">
     <!-- Logo Area -->
     <div class="flex items-center">
-      <img src="/logo.png" alt="KYCID Logo" class="h-8 w-8 mr-2" />
+      <a href="/">
+        <img src="/logo.png" alt="KYCID Logo" class="h-8 w-8 mr-2" />
+      </a>
+      
       <span class="text-xl font-bold">
         <a href="/" >
           KYCID
@@ -26,7 +29,6 @@
       <a href="/" class="hover:underline">Home</a>
       <a href="#how-it-works" class="hover:underline">How It Works</a>
       <a href="#features" class="hover:underline">Features</a>
-      <a href="/documentation" class="hover:underline">Documentation</a>
       <a href="/interaction" class="hover:underline">Interaction</a>
 
       <Button className="border border-white">Sign In / Sign Up</Button>
@@ -34,7 +36,10 @@
   
     <!-- Action Buttons -->
     <div class="flex items-center space-x-4">
-      <Button>Get Started</Button>
+      <Button>
+        <a href="/auth">Get Started</a>
+        
+      </Button>
       <ThemeToggle />
       <button class="md:hidden" on:click={toggleMenu}>
         <svg
@@ -60,7 +65,6 @@
         <a href="/" class="block py-2 hover:underline">Home</a>
         <a href="#how-it-works" class="block py-2 hover:underline">How It Works</a>
         <a href="#features" class="block py-2 hover:underline">Features</a>
-        <a href="/documentation" class="block py-2 hover:underline">Documentation</a>
         <a href="/interaction" class="hover:underline">App Interaction</a>
 
         <Button className="w-full mt-2">Sign In / Sign Up</Button>
