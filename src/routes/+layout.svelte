@@ -8,12 +8,13 @@
   <style>
   
   </style>
-  <div class="bg-gray-900 text-white min-h-screen">
+  <div class="flex flex-col bg-gray-900 text-white min-h-screen">
     <Header/>
+    <main class="flex-1">
+      <slot />
+
+    </main>
     
-    
-    
-    <slot />
 
     <Footer/>
 

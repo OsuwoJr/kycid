@@ -21,6 +21,7 @@
         <a href="/terms" class="text-sm hover:text-emerald-400">Terms of Service</a>
         <a href="/privacy" class="text-sm hover:text-emerald-400">Privacy Policy</a>
         <a href="/contact" class="text-sm hover:text-emerald-400">Contact Us</a>
+        <a href="/license" class="text-sm hover:text-emerald-400">License</a>
       </div>
 
       <!-- Documentation Links -->
@@ -28,8 +29,7 @@
         <a href="/documentation" class="text-sm hover:text-emerald-400">Documentation</a>
         <a href="/whitepaper" class="text-sm hover:text-emerald-400">White Paper</a>
         <a href="/pitchdeck" class="text-sm hover:text-emerald-400">Pitch Deck</a>
-        <a href="/license" class="text-sm hover:text-emerald-400">License</a>
-        <a href="/terms" class="text-sm hover:text-emerald-400">Terms</a>
+        <a href="/roadmap" class="text-sm hover:text-emerald-400">Road Map</a>
       </div>
 
       <!-- Social Media Links -->
