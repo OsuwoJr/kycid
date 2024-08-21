@@ -31,6 +31,7 @@
         <a href="/pitchdeck" class="text-sm hover:text-emerald-400">Pitch Deck</a>
         <a href="/roadmap" class="text-sm hover:text-emerald-400">Road Map</a>
       </div>
+      
 
       <!-- Social Media Links -->
       <div class="flex space-x-4 mt-4 md:mt-0">
