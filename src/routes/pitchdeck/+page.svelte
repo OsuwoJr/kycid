@@ -89,14 +89,19 @@
     <p class="text-lg">Our team consists of experienced professionals with backgrounds in blockchain technology, finance, and software development.</p>
     <div class="flex flex-col md:flex-row md:space-x-6 mt-4">
       <div class="flex-1">
-        <img src="path-to-team-member1-photo.jpg" alt="Team Member 1" class="w-full h-auto rounded-full mb-2">
+        <img src="john.jpg" alt="CEO" class="w-12 h-12 sm:w-14 sm:h-14 md:w-16 md:h-16 lg:w-20 lg:h-20  rounded-full mb-2">
         <h3 class="text-xl font-semibold">John Doe</h3>
         <p class="text-sm">CEO & Founder</p>
       </div>
       <div class="flex-1">
-        <img src="path-to-team-member2-photo.jpg" alt="Team Member 2" class="w-full h-auto rounded-full mb-2">
-        <h3 class="text-xl font-semibold">Jane Smith</h3>
+        <img src="frederick.jpg" alt="CTO" class="w-12 h-12 sm:w-14 sm:h-14 md:w-16 md:h-16 lg:w-20 lg:h-20  rounded-full mb-2">
+        <h3 class="text-xl font-semibold">Fredrick Smith</h3>
         <p class="text-sm">CTO</p>
+      </div>
+      <div class="flex-1">
+        <img src="osuwojr.jpg" alt="coo" class="w-12 h-12 sm:w-14 sm:h-14 md:w-16 md:h-16 lg:w-20 lg:h-20  rounded-full mb-2">
+        <h3 class="text-xl font-semibold">OsuwoJr</h3>
+        <p class="text-sm">COO</p>
       </div>
       <!-- Add more team members as needed -->
     </div>
@@ -107,6 +112,6 @@
   <div class="bg-gray-900 text-white text-center p-6">
     <h2 class="text-3xl font-semibold mb-4">Join Us</h2>
     <p class="text-lg mb-4">Be part of the future of KYC with KYCID. For investment opportunities, partnerships, or further information, please reach out to us.</p>
-    <a href="mailto:info@kycid.com" class="bg-emerald-500 text-white px-4 py-2 rounded hover:bg-emerald-400">Contact Us</a>
+    <a href="/contact" class="bg-emerald-500 text-white px-4 py-2 rounded hover:bg-emerald-400">Contact Us</a>
   </div>
   
