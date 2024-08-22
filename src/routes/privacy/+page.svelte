@@ -4,15 +4,15 @@
   
   <div class="container mx-auto px-4 py-8 text-white">
     <div class="mb-8">
-      <div class="mb-4">
-        <h1 class="text-3xl font-bold text-gray-900">Privacy Policy</h1>
-        <p class="text-sm "><strong>Effective Date:</strong> [August 20, 2024]</p>
+      <div class="text-center mb-4">
+        <h1 class="text-3xl font-bold mb-4">KYCID Privacy Policy</h1>
+        <p class="text-sm text-gray-500 "><strong>Effective Date:</strong> [August 20, 2024]</p>
       </div>
       <p class=" mb-4">Thank you for choosing KYCID. Your privacy is important to us. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services. By using our services, you agree to the collection and use of information in accordance with this policy.</p>
     </div>
   
     <div class="mb-8">
-      <h2 class="text-2xl font-semibold text-gray-900 mb-4">1. Information We Collect</h2>
+      <h2 class="text-2xl font-semibold  mb-4">1. Information We Collect</h2>
       <p class="mb-4">We collect various types of information to provide and improve our services:</p>
   
       <div class="mb-4 pl-4 border-l-2 border-gray-300">
@@ -71,12 +71,12 @@
     </div>
   
     <div class="mb-8">
-      <h2 class="text-2xl font-semibold text-gray-900 mb-4">5. Data Security</h2>
+      <h2 class="text-2xl font-semibold  mb-4">5. Data Security</h2>
       <p class=" mb-4">We implement a variety of security measures to maintain the safety of your personal information. These measures include encryption, access controls, and regular security assessments. However, no method of transmission over the internet or method of electronic storage is 100% secure, and we cannot guarantee absolute security.</p>
     </div>
   
     <div class="mb-8">
-      <h2 class="text-2xl font-semibold text-gray-900 mb-4">6. Your Rights and Choices</h2>
+      <h2 class="text-2xl font-semibold  mb-4">6. Your Rights and Choices</h2>
       <p class=" mb-4">You have certain rights regarding your personal information:</p>
       <ul class="list-disc list-inside  mb-4">
         <li><strong>Access:</strong> You can request access to the personal information we hold about you.</li>
@@ -84,7 +84,7 @@
         <li><strong>Deletion:</strong> You can request the deletion of your personal information, subject to certain legal obligations.</li>
         <li><strong>Opt-Out:</strong> You can opt out of receiving marketing communications from us.</li>
       </ul>
-      <p >To exercise these rights, please contact us at [support@kycid].</p>
+      <p >To exercise these rights, please contact us at <a href="mailto:support@kycid" class="text-emerald-500 hover:text-emerald-400">support@kycid</a> .</p>
     </div>
   
     <div class="mb-8">
@@ -105,10 +105,10 @@
     <div class="mb-8">
       <h2 class="text-2xl font-semibold  mb-4">10. Contact Us</h2>
       <p class=" mb-4">If you have any questions about this Privacy Policy, please contact us at:</p>
-      <ul class="list-disc list-inside ">
-        <li><strong>Email:</strong> [kyid@gmail.com]</li>
-        <li><strong>Address:</strong> [KYID TOWERS,CBD,NRB]</li>
-      </ul>
+      <div >
+        <p>Email: <a href="mailto:support@kycid.com" class="text-emerald-500 hover:text-emerald-400">support@kycid.com</a></p>
+        <p>Address: [KYCID,Towers]</p>
+      </div>
     </div>
   </div>
   

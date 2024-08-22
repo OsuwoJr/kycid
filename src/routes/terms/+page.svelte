@@ -59,7 +59,7 @@
 
             <div class="ml-4">
                 <h3 class="text-lg font-medium mb-1">6.1 Termination by User</h3>
-                <p>You may terminate your account at any time by contacting us at <a href="mailto:support@kycid.com" class="text-blue-600">support@kycid.com</a>.</p>
+                <p>You may terminate your account at any time by contacting us at <a href="mailto:support@kycid.com" class="text-emerald-500 hover:text-emerald-400">support@kycid.com</a>.</p>
 
                 <h3 class="text-lg font-medium mb-1 mt-4">6.2 Termination by KYCID</h3>
                 <p>We reserve the right to suspend or terminate your account or access to the platform at any time, without notice, for any reason, including but not limited to violation of these Terms, security concerns, or inactivity.</p>
@@ -102,11 +102,11 @@
             <h2 class="text-xl font-semibold mb-2">10. Links to Documentation and Legal Pages</h2>
 
             <div class="ml-4">
-                <p><a href="/documentation" class="text-blue-600">Documentation</a></p>
-                <p><a href="/whitepaper" class="text-blue-600">WhitePaper</a></p>
-                <p><a href="/pitchdeck" class="text-blue-600">Pitch Deck</a></p>
-                <p><a href="/license" class="text-blue-600">License</a></p>
-                <p><a href="/terms" class="text-blue-600">Terms</a></p>
+                <p><a href="/documentation" class="text-emerald-500 hover:text-emerald-400">Documentation</a></p>
+                <p><a href="/whitepaper" class="text-emerald-500 hover:text-emerald-400">WhitePaper</a></p>
+                <p><a href="/pitchdeck" class="text-emerald-500 hover:text-emerald-400">Pitch Deck</a></p>
+                <p><a href="/license" class="text-emerald-500 hover:text-emerald-400">License</a></p>
+                <p><a href="/terms" class="text-emerald-500 hover:text-emerald-400">Terms</a></p>
             </div>
         </div>
 
@@ -115,8 +115,8 @@
 
             <p>If you have any questions about these Terms, please contact us at:</p>
             <div class="ml-4">
-                <p>Email: <a href="mailto:support@kycid.com" class="text-blue-600">support@kycid.com</a></p>
-                <p>Address: [Your Company Address]</p>
+                <p>Email: <a href="mailto:support@kycid.com" class="text-emerald-500 hover:text-emerald-400">support@kycid.com</a></p>
+                <p>Address: [KYCID,Towers]</p>
             </div>
         </div>
 

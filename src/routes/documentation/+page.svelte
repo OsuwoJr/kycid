@@ -15,19 +15,19 @@
         <nav class="container mx-auto flex flex-col items-start">
             <a href="/" class="text-xl font-bold text-emerald-500 mb-4">KYCID</a>
             <ul class="flex flex-col space-y-4">
-                <li><a href="#introduction" class="hover:underline">Introduction</a></li>
-                <li><a href="#getting-started" class="hover:underline">Getting Started</a></li>
-                <li><a href="#core-components" class="hover:underline">Core Components</a></li>
-                <li><a href="#routing" class="hover:underline">Routing & Navigation</a></li>
-                <li><a href="#authentication-flow" class="hover:underline">Authentication Flow</a></li>
-                <li><a href="#dashboard" class="hover:underline">Dashboard</a></li>
-                <li><a href="#external-app" class="hover:underline">External App Interaction</a></li>
-                <li><a href="#styling" class="hover:underline">Styling & Theming</a></li>
-                <li><a href="#deployment" class="hover:underline">Deployment</a></li>
-                <li><a href="#faq" class="hover:underline">FAQ</a></li>
-                <li><a href="#contributing" class="hover:underline">Contributing</a></li>
-                <li><a href="#acknowledgements" class="hover:underline">Acknowledgements</a></li>
-                <li><a href="#license" class="hover:underline">License</a></li>
+                <li><a href="#introduction" class="text-emerald-500 hover:text-emerald-400">Introduction</a></li>
+                <li><a href="#getting-started" class="text-emerald-500 hover:text-emerald-400">Getting Started</a></li>
+                <li><a href="#core-components" class="text-emerald-500 hover:text-emerald-400">Core Components</a></li>
+                <li><a href="#routing" class="text-emerald-500 hover:text-emerald-400">Routing & Navigation</a></li>
+                <li><a href="#authentication-flow" class="text-emerald-500 hover:text-emerald-400">Authentication Flow</a></li>
+                <li><a href="#dashboard" class="text-emerald-500 hover:text-emerald-400">Dashboard</a></li>
+                <li><a href="#external-app" class="text-emerald-500 hover:text-emerald-400">External App Interaction</a></li>
+                <li><a href="#styling" class="text-emerald-500 hover:text-emerald-400">Styling & Theming</a></li>
+                <li><a href="#deployment" class="text-emerald-500 hover:text-emerald-400">Deployment</a></li>
+                <li><a href="#faq" class="text-emerald-500 hover:text-emerald-400">FAQ</a></li>
+                <li><a href="#contributing" class="text-emerald-500 hover:text-emerald-400">Contributing</a></li>
+                <li><a href="#acknowledgements" class="text-emerald-500 hover:text-emerald-400">Acknowledgements</a></li>
+                <li><a href="#license" class="text-emerald-500 hover:text-emerald-400">License</a></li>
             </ul>
         </nav>
     </div>
@@ -90,7 +90,7 @@ kycid/
             <h3 class="text-2xl font-semibold mt-4">Running the Project Locally</h3>
             <p>To start the development server:</p>
             <pre class="bg-gray-800 p-4 rounded"><code>npm run dev</code></pre>
-            <p>Visit <a href="http://localhost:5173" class="text-emerald-400 hover:underline">http://localhost:5173</a> to view the platform.</p>
+            <p>Visit <a href="http://localhost:5173" class="text-emerald-500 hover:text-emerald-400">http://localhost:5173</a> to view the platform.</p>
         </section>
 
         <section id="core-components" class="mb-12">
@@ -188,7 +188,7 @@ kycid/
         <section id="contributing" class="mb-12">
             <h2 class="text-3xl font-bold text-emerald-500 section-title">Contributing</h2>
             <p>We welcome contributions to the KYCID project. Please fork the repository, make your changes, and submit a pull request. Follow our coding guidelines and ensure all tests pass before submitting.</p>
-            <p>For more details, refer to our <a href="https://github.com/your-username/kycid" class="text-emerald-400 hover:underline">GitHub repository</a>.</p>
+            <p>For more details, refer to our <a target="_blank" href="https://github.com/OsuwoJr/kycid" class="text-emerald-500 hover:text-emerald-400">GitHub repository</a>.</p>
         </section>
 
         <section id="acknowledgements" class="mb-12">
@@ -198,7 +198,7 @@ kycid/
 
         <section id="license" class="mb-12">
             <h2 class="text-3xl font-bold text-emerald-500 section-title">License</h2>
-            <p>KYCID is licensed under the MIT License. See the <a href="/license" class="text-emerald-400 hover:underline">LICENSE</a> file for more information.</p>
+            <p>KYCID is licensed under the MIT License. See the <a href="/license" class="text-emerald-500 hover:text-emerald-400">LICENSE</a> file for more information.</p>
         </section>
     </main>
 

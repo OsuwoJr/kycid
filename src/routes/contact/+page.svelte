@@ -43,7 +43,7 @@
             </li>
             <li>
               <h3 class="text-lg font-semibold">Phone</h3>
-              <a href="tel:+254123456789" class="text-sm hover:text-emerald-400">+254 123 456 789</a>
+              <a href="tel:+254790932575" class="text-sm hover:text-emerald-400">+254 790 932 575</a>
             </li>
             <li>
               <h3 class="text-lg font-semibold">Address</h3>
