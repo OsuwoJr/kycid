@@ -13,7 +13,7 @@
 <main class="bg-gray-900 text-white min-h-screen">
     <div class="bg-gray-800 p-6 flex flex-col items-center">
         <nav class="container mx-auto flex flex-col items-start">
-            <a href="/" class="text-xl font-bold text-emerald-500 mb-4">KYCID</a>
+            <a href="/" class="text-xl font-bold text-emerald-500 mb-4">KYCID DOCUMENTATION</a>
             <ul class="flex flex-col space-y-4">
                 <li><a href="#introduction" class="text-emerald-500 hover:text-emerald-400">Introduction</a></li>
                 <li><a href="#getting-started" class="text-emerald-500 hover:text-emerald-400">Getting Started</a></li>

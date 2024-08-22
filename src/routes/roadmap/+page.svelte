@@ -5,12 +5,12 @@
   
   <div class=" py-12">
     <div class="container mx-auto px-6">
-      <h2 class="text-3xl font-bold mb-8 text-center">Project Roadmap</h2>
+      <h2 class="text-3xl font-bold mb-8 text-center text-emerald-500">KYCID Roadmap</h2>
   
       <div class="space-y-12">
         <!-- Initial Planning and Setup -->
         <div class=" p-6 rounded-lg shadow-lg">
-          <h3 class="text-2xl font-semibold mb-4">1. Initial Planning and Setup (August 2024)</h3>
+          <h3 class="text-2xl font-semibold mb-4 text-emerald-400">1. Initial Planning and Setup (August 2024)</h3>
           <ul class="list-disc pl-6 space-y-2">
             <li><strong>Week 1:</strong> Finalize project vision and goals.</li>
             <li><strong>Week 2:</strong> Set up project infrastructure (repositories, environments).</li>
@@ -21,7 +21,7 @@
   
         <!-- Development Phase 1 -->
         <div class=" p-6 rounded-lg shadow-lg">
-          <h3 class="text-2xl font-semibold  mb-4">2. Development Phase 1 (September 2024 - November 2024)</h3>
+          <h3 class="text-2xl font-semibold  mb-4 text-emerald-400">2. Development Phase 1 (September 2024 - November 2024)</h3>
           <div class="space-y-6">
             <div>
               <h4 class="text-xl font-semibold  mb-2">September:</h4>
@@ -49,7 +49,7 @@
   
         <!-- Development Phase 2 -->
         <div class=" p-6 rounded-lg shadow-lg">
-          <h3 class="text-2xl font-semibold  mb-4">3. Development Phase 2 (December 2024 - February 2025)</h3>
+          <h3 class="text-2xl font-semibold  mb-4 text-emerald-400">3. Development Phase 2 (December 2024 - February 2025)</h3>
           <div class="space-y-6">
             <div>
               <h4 class="text-xl font-semibold  mb-2">December:</h4>
@@ -77,7 +77,7 @@
   
         <!-- Launch and Growth -->
         <div class="p-6 rounded-lg shadow-lg">
-          <h3 class="text-2xl font-semibold  mb-4">4. Launch and Growth (March 2025 - May 2025)</h3>
+          <h3 class="text-2xl font-semibold  mb-4 text-emerald-400">4. Launch and Growth (March 2025 - May 2025)</h3>
           <div class="space-y-6">
             <div>
               <h4 class="text-xl font-semibold  mb-2">March:</h4>
@@ -105,7 +105,7 @@
   
         <!-- Ongoing Maintenance and Expansion -->
         <div class=" p-6 rounded-lg shadow-lg">
-          <h3 class="text-2xl font-semibold  mb-4">5. Ongoing Maintenance and Expansion (June 2025 - Ongoing)</h3>
+          <h3 class="text-2xl font-semibold  mb-4 text-emerald-400">5. Ongoing Maintenance and Expansion (June 2025 - Ongoing)</h3>
           <ul class="list-disc pl-6 space-y-2">
             <li><strong>June:</strong> Regular updates and maintenance.</li>
             <li><strong>Ongoing:</strong> Monitor performance, address issues, and implement new features as needed.</li>
